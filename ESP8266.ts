@@ -11,7 +11,7 @@
  */
 //% color=#0fbc11 icon="\uf1eb" weight=90
 
-namespace ESP8266_IoT {
+namespace WiFi {
     let tobesendstring = ""
 
     /**
