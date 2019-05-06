@@ -1,7 +1,7 @@
 {
-    "name": "Environment-and-Science-IoT",
+    "name": "Cobo Academy Extension",
     "version": "2.0.0",
-    "description": "MakeCode package for the ELECFREAKS Environment and Science IoT Kit for micro:bit",
+    "description": "Cobo Academy Extension for projects",
     "license": "MIT",
     "dependencies": {
         "core": "*",
